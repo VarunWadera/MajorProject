@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hamburger</folder>
+  <filename>2f18843bea7a120c.jpg</filename>
+  <path>C:\Users\Nikhil\Desktop\New folder\OID\Dataset\train\Hamburger\2f18843bea7a120c.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>802</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hamburger</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>49</ymin>
+      <xmax>739</xmax>
+      <ymax>927</ymax>
+    </bndbox>
+  </object>
+</annotation>

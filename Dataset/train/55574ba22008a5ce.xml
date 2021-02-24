@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Pizza</folder>
+  <filename>55574ba22008a5ce.jpg</filename>
+  <path>C:\Users\Nikhil\Desktop\New folder\OID\Dataset\train\Pizza\55574ba22008a5ce.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pizza</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>25</xmin>
+      <ymin>728</ymin>
+      <xmax>436</xmax>
+      <ymax>1024</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pizza</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>241</xmin>
+      <ymin>605</ymin>
+      <xmax>416</xmax>
+      <ymax>709</ymax>
+    </bndbox>
+  </object>
+</annotation>

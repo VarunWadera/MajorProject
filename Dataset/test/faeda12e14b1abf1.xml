@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Beer</folder>
+  <filename>faeda12e14b1abf1.jpg</filename>
+  <path>C:\Users\Nikhil\Desktop\New folder\OID\Dataset\test\Beer\faeda12e14b1abf1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Beer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>194</xmin>
+      <ymin>99</ymin>
+      <xmax>574</xmax>
+      <ymax>995</ymax>
+    </bndbox>
+  </object>
+</annotation>

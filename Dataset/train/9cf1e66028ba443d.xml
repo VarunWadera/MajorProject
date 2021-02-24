@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Beer</folder>
+  <filename>9cf1e66028ba443d.jpg</filename>
+  <path>C:\Users\Nikhil\Desktop\New folder\OID\Dataset\train\Beer\9cf1e66028ba443d.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Beer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>352</xmin>
+      <ymin>409</ymin>
+      <xmax>632</xmax>
+      <ymax>871</ymax>
+    </bndbox>
+  </object>
+</annotation>
